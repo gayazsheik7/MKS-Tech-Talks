@@ -1,3 +1,8 @@
 hi
 
+<<<<<<< HEAD
 welcome to MKS TT
+=======
+how r u
+ 
+>>>>>>> parent of f6473b3... hello
